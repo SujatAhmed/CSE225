@@ -1,3 +1,3 @@
-/home/sujat/projects/225/25-09/cmake-build-debug/CMakeFiles/25_09.dir
-/home/sujat/projects/225/25-09/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sujat/projects/225/25-09/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sujat/projects/cse225/225/25-09/cmake-build-debug/CMakeFiles/25_09.dir
+/home/sujat/projects/cse225/225/25-09/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sujat/projects/cse225/225/25-09/cmake-build-debug/CMakeFiles/rebuild_cache.dir

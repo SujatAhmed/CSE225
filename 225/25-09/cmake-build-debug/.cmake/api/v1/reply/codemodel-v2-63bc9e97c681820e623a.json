@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/sujat/projects/225/25-09/cmake-build-debug",
-		"source" : "/home/sujat/projects/225/25-09"
+		"build" : "/home/sujat/projects/cse225/225/25-09/cmake-build-debug",
+		"source" : "/home/sujat/projects/cse225/225/25-09"
 	},
 	"version" : 
 	{
