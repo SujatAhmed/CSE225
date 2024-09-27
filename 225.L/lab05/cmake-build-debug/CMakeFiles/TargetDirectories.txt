@@ -1,3 +1,0 @@
-/home/sujat/projects/cse225/225.L/lab05/cmake-build-debug/CMakeFiles/lab05.dir
-/home/sujat/projects/cse225/225.L/lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sujat/projects/cse225/225.L/lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir

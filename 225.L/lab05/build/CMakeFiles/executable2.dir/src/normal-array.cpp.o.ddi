@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/executable2.dir/src/normal-array.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

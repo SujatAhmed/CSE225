@@ -1,0 +1,3 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/executable2.dir/src/normal-array.cpp.o: dyndep
+

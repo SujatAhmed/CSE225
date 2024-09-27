@@ -1,0 +1,25 @@
+# ninja log v6
+4	100	1727449356311525729	CMakeFiles/executable2.dir/src/normal-array.cpp.o.ddi	ea6691420e90571
+3	100	1727449356308192393	CMakeFiles/executable1.dir/src/ragged-array.cpp.o.ddi	f02fba1545dde8fc
+100	111	1727449356414859157	CMakeFiles/executable2.dir/CXX.dd	7c55be8217fa2165
+100	111	1727449356414859157	/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/executable2.dir/CXXModules.json	7c55be8217fa2165
+100	111	1727449356414859157	CMakeFiles/executable2.dir/src/normal-array.cpp.o.modmap	7c55be8217fa2165
+100	111	1727449356414859157	CMakeFiles/executable1.dir/CXX.dd	eeb7a4022c12da0f
+100	111	1727449356414859157	/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/executable1.dir/CXXModules.json	eeb7a4022c12da0f
+100	111	1727449356414859157	CMakeFiles/executable1.dir/src/ragged-array.cpp.o.modmap	eeb7a4022c12da0f
+111	682	1727449356418192493	CMakeFiles/executable2.dir/src/normal-array.cpp.o	e9a572b7adb72134
+111	716	1727449356418192493	CMakeFiles/executable1.dir/src/ragged-array.cpp.o	f5e63c57c6ff842c
+683	767	1727449356988193013	executable2	e7276a6e8402ff73
+716	792	1727449357021526377	executable1	222800c262b169f8
+3	89	1727449486888580788	CMakeFiles/executable1.dir/src/ragged-array.cpp.o.ddi	f02fba1545dde8fc
+3	90	1727449486888580788	CMakeFiles/executable2.dir/src/normal-array.cpp.o.ddi	ea6691420e90571
+89	100	1727449486975247877	CMakeFiles/executable1.dir/CXX.dd	eeb7a4022c12da0f
+89	100	1727449486975247877	/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/executable1.dir/CXXModules.json	eeb7a4022c12da0f
+89	100	1727449486975247877	CMakeFiles/executable1.dir/src/ragged-array.cpp.o.modmap	eeb7a4022c12da0f
+90	101	1727449486975247877	CMakeFiles/executable2.dir/CXX.dd	7c55be8217fa2165
+90	101	1727449486975247877	/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/executable2.dir/CXXModules.json	7c55be8217fa2165
+90	101	1727449486975247877	CMakeFiles/executable2.dir/src/normal-array.cpp.o.modmap	7c55be8217fa2165
+101	472	1727449486985247925	CMakeFiles/executable2.dir/src/normal-array.cpp.o	e9a572b7adb72134
+100	480	1727449486985247925	CMakeFiles/executable1.dir/src/ragged-array.cpp.o	f5e63c57c6ff842c
+472	547	1727449487358583085	executable2	e7276a6e8402ff73
+480	559	1727449487365249784	executable1	222800c262b169f8
