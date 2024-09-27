@@ -1,10 +1,10 @@
-# 0 "/home/sujat/projects/cse225/225.L/lab05/main.cpp"
-# 1 "/home/sujat/projects/cse225/225.L/lab05/cmake-build-debug//"
+# 0 "/home/sujat/projects/cse225/225.L/lab04/src/case1.cpp"
+# 1 "/home/sujat/projects/cse225/225.L/lab04/cmake-build-debug//"
 # 0 "<built-in>"
 # 0 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4
 # 0 "<command-line>" 2
-# 1 "/home/sujat/projects/cse225/225.L/lab05/main.cpp"
+# 1 "/home/sujat/projects/cse225/225.L/lab04/src/case1.cpp"
 # 1 "/usr/include/c++/14.2.1/iostream" 1 3
 # 36 "/usr/include/c++/14.2.1/iostream" 3
        
@@ -43307,70 +43307,17 @@ namespace std __attribute__ ((__visibility__ ("default")))
 
 
 }
-# 2 "/home/sujat/projects/cse225/225.L/lab05/main.cpp" 2
+# 2 "/home/sujat/projects/cse225/225.L/lab04/src/case1.cpp" 2
 
-# 2 "/home/sujat/projects/cse225/225.L/lab05/main.cpp"
-using namespace std;
 
-void case1();
-void case2();
-int main(){
 
-}
-void case1()
-{
-    int row;
-    int column;
-    cout<<"Enter number of rows you want to enter: " << endl;
-    cin>>row;
-    cout<< "Enter the number of columns you want to enter" << endl;
-    cin>>column;
+# 4 "/home/sujat/projects/cse225/225.L/lab04/src/case1.cpp"
+int main() {
 
-    int** ptr = new int*[row];
-    for(int i=0;i<row;i++) {
-       ptr[i] = new int[column];
-    }
-    for(int i=0;i<row;i++) {
-        for (int j=0; j<column; j++ ) {
-            cout<< "Row " << i+1 << "Column " << j+1 << endl;
-            cin>>ptr[i][j];
-        }
-    }
-
-    for(int i=0;i<row;i++) {
-        for (int j=0; j<column; j++ ) {
-            cout<<ptr[i][j]<< " ";
-        }
-        cout<<endl;
-    }
-}
-void case2(){
-    int row;
-    cout<<"Enter number of rows you want to enter: " << endl;
-    cin>>row;
-    int tempArray[row];
-    for(int i=0;i<row;i++) {
-        cout<<"Enter number of columns in each row you want to enter: " << i+1 << endl;
-        cin>>tempArray[i];
-    }
-    int** ptr = new int*[row];
-    for(int i=0;i<row;i++) {
-        ptr[i] = new int[tempArray[i]];
-    }
-    for(int i=0;i<row;i++) {
-        for (int j=0; j<tempArray[i]; j++ ) {
-            cout<< "Row " << i+1 << "Column " << j+1 << endl;
-            cin>>ptr[i][j];
-        }
-    }
-
-    for(int i=0;i<row;i++) {
-        for (int j=0; j<tempArray[i]; j++ ) {
-            cout<<ptr[i][j]<< " ";
-        }
-        cout<<endl;
-    }
-    for(int i=0;i<row;i++) {
-        delete [] ptr[i];
-    }
+    int *ptr = new int;
+    *ptr = 10;
+    std::cout << ptr << std::endl;
+    std::cout << *ptr << std::endl;
+    delete ptr;
+    std::cout << *ptr << std::endl;
 }

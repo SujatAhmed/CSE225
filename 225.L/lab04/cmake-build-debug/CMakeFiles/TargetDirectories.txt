@@ -1,3 +1,4 @@
-/home/sujat/projects/cse225/225.L/lab04/cmake-build-debug/CMakeFiles/lab04.dir
+/home/sujat/projects/cse225/225.L/lab04/cmake-build-debug/CMakeFiles/ex1.dir
+/home/sujat/projects/cse225/225.L/lab04/cmake-build-debug/CMakeFiles/ex2.dir
 /home/sujat/projects/cse225/225.L/lab04/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/sujat/projects/cse225/225.L/lab04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

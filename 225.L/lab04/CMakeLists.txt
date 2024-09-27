@@ -3,5 +3,5 @@ project(lab04)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(lab04 main.cpp
-)
+add_executable(ex1 src/case1.cpp)
+add_executable(ex2 src/case2.cpp)

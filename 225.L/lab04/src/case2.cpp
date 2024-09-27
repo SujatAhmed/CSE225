@@ -1,23 +1,6 @@
+
 #include <iostream>
-
-void case1();
-void case2();
-
 int main() {
-    //case1();
-    case2();
-
-}
-
-void case1() {
-    int *ptr = new int;
-    *ptr = 10;
-    std::cout << ptr << std::endl;
-    std::cout << *ptr << std::endl;
-    delete ptr;
-    std::cout << *ptr << std::endl;
-}
-void case2() {
     //2D array
     //Assigning the column array that will hold the starting address for each row array
     int** ptr = new int*[4];
@@ -31,5 +14,4 @@ void case2() {
     ptr[0][1] = 10;
     std::cout << ptr[0][1] << std::endl;
 }
-
 

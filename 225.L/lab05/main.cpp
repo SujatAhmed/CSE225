@@ -59,5 +59,7 @@ void case2(){ //2D uniform array
         }
         cout<<endl;
     }
-
+    for(int i=0;i<row;i++) {
+        delete [] ptr[i];
+    }
 }
