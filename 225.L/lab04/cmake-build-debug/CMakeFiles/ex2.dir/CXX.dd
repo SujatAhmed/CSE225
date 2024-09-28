@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/ex2.dir/src/case2.cpp.o: dyndep
-
