@@ -1,4 +1,0 @@
-/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/executable1.dir
-/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/executable2.dir
-/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/edit_cache.dir
-/home/sujat/projects/cse225/225.L/lab05/build/CMakeFiles/rebuild_cache.dir

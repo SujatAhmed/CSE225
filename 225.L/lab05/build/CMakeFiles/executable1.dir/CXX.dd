@@ -1,3 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/executable1.dir/src/ragged-array.cpp.o: dyndep
-
