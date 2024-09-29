@@ -1,4 +1,5 @@
 #include "linear-search.h"
+#include "binary-search.h"
 #include "random-array.h"
 #include <iostream>
 using namespace std;
@@ -8,7 +9,9 @@ int main() {
   int min_value = 1;
   int max_value = 100;
 
-  vector<int> array = generate_random_array(size, min_value, max_value);
+  const vector<int> array = generate_random_array(size, min_value, max_value);
+  binarySearch(array,10);
+  
 
   for (int val : array) {
     cout << val << " ";
