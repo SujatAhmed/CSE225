@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/sujat/projects/cse225/algorithms/build",
+  "command": "/usr/bin/c++ -I/home/sujat/projects/cse225/algorithms/libs/random-array -I/home/sujat/projects/cse225/algorithms/libs/searching-algorithms -o CMakeFiles/main.dir/src/main.cpp.o -c /home/sujat/projects/cse225/algorithms/src/main.cpp",
+  "file": "/home/sujat/projects/cse225/algorithms/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/sujat/projects/cse225/algorithms/build",
+  "command": "/usr/bin/c++ -I/home/sujat/projects/cse225/algorithms/libs/random-array -o libs/random-array/CMakeFiles/random-array.dir/random-array.cpp.o -c /home/sujat/projects/cse225/algorithms/libs/random-array/random-array.cpp",
+  "file": "/home/sujat/projects/cse225/algorithms/libs/random-array/random-array.cpp",
+  "output": "libs/random-array/CMakeFiles/random-array.dir/random-array.cpp.o"
+},
+{
+  "directory": "/home/sujat/projects/cse225/algorithms/build",
+  "command": "/usr/bin/c++ -I/home/sujat/projects/cse225/algorithms/libs/searching-algorithms -o libs/searching-algorithms/CMakeFiles/searching-algorithms.dir/linear-search.cpp.o -c /home/sujat/projects/cse225/algorithms/libs/searching-algorithms/linear-search.cpp",
+  "file": "/home/sujat/projects/cse225/algorithms/libs/searching-algorithms/linear-search.cpp",
+  "output": "libs/searching-algorithms/CMakeFiles/searching-algorithms.dir/linear-search.cpp.o"
+}
+]
