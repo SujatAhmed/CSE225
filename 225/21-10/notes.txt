@@ -1,0 +1,13 @@
+
+List of node following the lifo order
+last in first out
+
+When it comes to adding elements:
+Basically the push-front operation in a linked list.
+
+
+When it comes to removing elements:
+Remove the first element in the queue always.
+
+
+

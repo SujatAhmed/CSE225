@@ -1,10 +1,11 @@
 #ifndef RANDOM_ARRAY_H
 #define RANDOM_ARRAY_H
 
-#include <vector>
 
-// Function to generate a random array
-std::vector<int> generate_random_array(int size, int min_value, int max_value);
+#include <cstdlib>  // For std::srand and std::rand
+#include <ctime>    // For std::time
+
+int* generate_random_array(int max_size, int min_value, int max_value);
 
 #endif
 
