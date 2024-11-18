@@ -1,0 +1,18 @@
+# ninja log v6
+47	129	1731912622653872653	lab07	703cd8cb4838be24
+16	21	1731912861529457272	CMakeFiles/lab07.dir/StackType.cpp.o.modmap	7b024c3032387038
+25	47	1731912622633872464	CMakeFiles/lab07.dir/stacktype.cpp.o	a23e9580e19e1ecd
+116	638	1731912069955330388	CMakeFiles/lab07.dir/main.cpp.o	6b84c166f247ef6f
+16	21	1731912861529457272	CMakeFiles/lab07.dir/main.cpp.o.modmap	7b024c3032387038
+16	21	1731912861529457272	/home/sujat/projects/CSE225/225.L/lab07/cmake-build-debug/CMakeFiles/lab07.dir/CXXModules.json	7b024c3032387038
+16	21	1731912861529457272	CMakeFiles/lab07.dir/CXX.dd	7b024c3032387038
+2	16	1731912861516123813	CMakeFiles/lab07.dir/StackType.cpp.o.ddi	2ce8a78969cab957
+1	111	1731912069838662622	CMakeFiles/lab07.dir/main.cpp.o.ddi	5957f6daa7bb1d16
+19	25	1731912705431319452	CMakeFiles/lab07.dir/stacktype.cpp.o.modmap	c4cd948fbb52fe43
+1	18	1731912705414652629	CMakeFiles/lab07.dir/stacktype.cpp.o.ddi	3b268b32d2f7242f
+1	31	1731913137833737021	build.ninja	ec4aa5d1115fb918
+1	14	1731913137840403751	CMakeFiles/lab07.dir/StackType.cpp.o.ddi	2ce8a78969cab957
+14	23	1731913137853737210	CMakeFiles/lab07.dir/CXX.dd	7b024c3032387038
+14	23	1731913137853737210	/home/sujat/projects/CSE225/225.L/lab07/cmake-build-debug/CMakeFiles/lab07.dir/CXXModules.json	7b024c3032387038
+14	23	1731913137853737210	CMakeFiles/lab07.dir/main.cpp.o.modmap	7b024c3032387038
+14	23	1731913137853737210	CMakeFiles/lab07.dir/StackType.cpp.o.modmap	7b024c3032387038
